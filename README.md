@@ -17,21 +17,17 @@ This is the repository for analysis for Project 3 in DS 4002
 ├DS-4002-Project-3-M3/
 │
 ├── DATA/ # Raw and processed data files
-│ ├── 
-│ ├── 
-│ └── 
+│ └── Where-to-Obtain.md # Relays how to obtain the data from MC Irvine Machine Learning Repository
 │
 ├── OUTPUT/ # Generated charts and figures for reporting
-│ ├── 
-│ ├── 
+│ ├── category_counts.png # From CategoryAmounts.ipynb, shows counts of images that belong to each waste type categories
+│ ├── category_counts_aggregated.png # From CategoryAmounts.ipynb, shows counts of images that belong to three categories (recyclable, compostavle, and neither)
 │ ├── 
 │ ├── 
 │ └── 
 │
 ├── SCRIPTS/ # Jupyter notebooks for analysis
-│ ├── 
-│ ├── 
-│ ├── 
+│ ├── CategoryAmounts.ipynb # Our EDA code that demonstrates the numbers/ratios in waste type category and how many are recyclable, compostable, and neither.
 │ └── 
 │
 ├── README.md # Project overview and instructions
@@ -44,13 +40,9 @@ This is the repository for analysis for Project 3 in DS 4002
 ### 1. Set Up the Project Structure
 Clone this repository and ensure your local folder structure matches the layout shown in **Section 2** of this README:
 
-### 2.  Run Preprocessing
-Open and run the notebook:
+### 2.  Run the Methdology Code
+Open and run the notebook: [_____.ipynb]()
 This notebook will:
 
-
-### 3. Train & Evaluate the Classification Model
-Next, open and run:
-This notebook will:
 
 
