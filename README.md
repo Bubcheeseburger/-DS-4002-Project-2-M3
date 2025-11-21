@@ -50,3 +50,11 @@ This notebook will:
 - Build and train a **convolutional neural network (CNN)** on the training data to predict the 3 waste types.  
 - Evaluate the model on the test set, reporting **accuracy, precision, recall, F1-score**, and a **confusion matrix**.  
 - Save the trained model and result figures (plots and confusion matrix) into the `OUTPUT` folder.
+
+### 3 (Optional).  Run Project3ItemClassModel.ipynb
+Open and run the notebook: [Project3ItemClassModel.ipynb](https://github.com/Bubcheeseburger/-DS-4002-Project-3-M3/blob/main/SCRIPTS/Project3ItemClassModel.ipynb)
+This notebook was the original data analysis, but due to low accuracy, the above was the chosen methodology. This will:
+- Split the images into **training, validation, and test** sets.  
+- Build and train a **convolutional neural network (CNN)** on the training data to predict the 3 waste types.  
+- Evaluate the model on the test set, reporting **accuracy, precision, recall, F1-score**, and a **confusion matrix**.  
+- Save the trained model and result figures (plots and confusion matrix) into the `OUTPUT` folder.
