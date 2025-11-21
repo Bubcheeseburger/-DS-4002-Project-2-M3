@@ -28,6 +28,7 @@ This is the repository for analysis for Project 3 in DS 4002
 │
 ├── SCRIPTS/ # Jupyter notebooks for analysis
 │ ├── CategoryAmounts.ipynb # Our EDA code that demonstrates the numbers/ratios in waste type category and how many are recyclable, compostable, and neither.
+│ ├── Project3ItemClassModel.ipynb # Creates a model that classifies based on waste type
 │ └── 
 │
 ├── README.md # Project overview and instructions
