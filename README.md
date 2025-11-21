@@ -22,7 +22,7 @@ This is the repository for analysis for Project 3 in DS 4002
 ├── OUTPUT/ # Generated charts and figures for reporting
 │ ├── category_counts.png # From CategoryAmounts.ipynb, shows counts of images that belong to each waste type categories
 │ ├── category_counts_aggregated.png # From CategoryAmounts.ipynb, shows counts of images that belong to three categories (recyclable, compostavle, and neither)
-│ ├── 
+│ ├── cm_small_cnn # From Project3ItemClassModel.ipynb which shows a confusion matrix of how well the model was able to classify waste types
 │ ├── 
 │ └── 
 │
